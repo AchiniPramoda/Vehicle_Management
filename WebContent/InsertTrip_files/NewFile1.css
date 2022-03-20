@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+.register-photo .image-holder {
+	display: table-cell;
+	width: auto;
+	background: url(../images/images.jpg);
+	background-size: cover;
+}
